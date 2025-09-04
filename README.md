@@ -23,6 +23,7 @@ The projects cover a variety of topics including career salaries, app store anal
 
 ### LEGO Dataset Analysis
 - Examine LEGO set data to understand trends in set size, themes, historical growth, and complexity over time.
+- 
 📂 [View Project](https://github.com/PranayPrasanth/Data_Analytics_Projects/tree/main/Lego_Analysis)
 
 ### Programming Language Trends
@@ -37,9 +38,4 @@ The projects cover a variety of topics including career salaries, app store anal
 - Google Colab (for some projects)  
 - CSV datasets from public sources  
 
-## Getting Started
 
-1. Clone this repository:
-
-```bash
-git clone <repo-url>
