@@ -23,12 +23,12 @@ The projects cover a variety of topics including career salaries, app store anal
 
 ### LEGO Dataset Analysis
 - Examine LEGO set data to understand trends in set size, themes, historical growth, and complexity over time.
-- 
+  
 📂 [View Project](https://github.com/PranayPrasanth/Data_Analytics_Projects/tree/main/Lego_Analysis)
 
 ### Programming Language Trends
 - Analyze Stack Exchange data to understand how programming language popularity has evolved over time.
-  
+ 
 📂 [View Project](https://github.com/PranayPrasanth/Data_Analytics_Projects/tree/main/Programming_Languages_Analysis)
         
 ## Technologies & Tools
